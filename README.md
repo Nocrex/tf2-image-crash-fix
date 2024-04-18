@@ -1,4 +1,4 @@
-# Linux fix for Objector/Decal crash
+# Linux fix for Objector/Decal crash (ISSUE IS FIXED, NO NEED TO USE)
 ## WARNING: I CANNOT CONFIRM THAT THIS IS SAFE, IF YOUR ACCOUNT GETS VAC-BANNED DON'T BLAME ME
 
 I have no idea how VAC actually determines cheats on Linux, so use at your own risk. For this reason I will also not be providing binaries.
