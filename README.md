@@ -1,7 +1,7 @@
 # Linux fix for Decal Crashers
 ## WARNING: I CANNOT CONFIRM THAT THIS IS SAFE, IF YOUR ACCOUNT GETS VAC-BANNED DON'T BLAME ME
 
-For this reason I will also not be providing binaries.
+I have no idea how VAC actually determines cheats on Linux, so use at your own risk. For this reason I will also not be providing binaries.
 
 Usage
 ---
