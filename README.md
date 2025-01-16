@@ -1,7 +1,9 @@
-# Linux fix for Decal Crashers
+# Linux fix for Objector/Decal crash
 ## WARNING: I CANNOT CONFIRM THAT THIS IS SAFE, IF YOUR ACCOUNT GETS VAC-BANNED DON'T BLAME ME
 
 I have no idea how VAC actually determines cheats on Linux, so use at your own risk. For this reason I will also not be providing binaries.
+
+GitHub issue about the exploit: https://github.com/ValveSoftware/Source-1-Games/issues/5603
 
 Usage
 ---
